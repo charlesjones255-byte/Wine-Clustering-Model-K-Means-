@@ -111,17 +111,36 @@ python model.py
 
 wine-clustering/
 │
+
 ├── model.py
+
 ├── wine-clustering.csv
+
 ├── Clustering.pkl
+
 ├── README.md
+
 ├── requirements.txt
+
 ├── app.py   # (Streamlit UI)
+
+
+
 🌐 Streamlit Web App (NEW)
 
 Run the web app:
 
 streamlit run app.py
+
+
+Tech Stack
+Python
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Joblib
+Streamlit
 
 
 
